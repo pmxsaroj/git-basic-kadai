@@ -1,0 +1,40 @@
+PS C:......>cd .\git_tutorial\
+
+step 1.
+
+mkdir git_challenge
+//git_challengeデイレクトリの作成
+
+git init 
+デイレクトリに新規レポジトリの作成。
+
+step 2.
+
+git add hello_world.txt
+
+//hello_worldをインデックスに登録
+
+step 3.
+
+git commit -m "最初のコミット"
+
+//コミットした。
+
+git status 
+状態確認。
+
+git add hello_world.txt
+
+//hello_worldをインデックスに登録
+
+git commit -m "second commit"
+
+
+step 4.
+ PS C:......>cd .\git_tutorial\
+
+mkdir kadai_005
+
+kadai_005　デイレクトリ作成。
+
+kadai_005.txt　作成
